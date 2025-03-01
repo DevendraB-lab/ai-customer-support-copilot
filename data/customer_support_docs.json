@@ -1,78 +1,84 @@
 [
     {
-        "question": "How long does car ownership transfer take?",
-        "answer": "Ownership transfer typically takes 15-30 days depending on the RTO."
+        "question": "What does the company's warranty cover?",
+        "answer": "The company provides a warranty covering major components such as the engine, transmission, and essential mechanical parts. Coverage varies based on the selected plan."
     },
     {
-        "question": "What documents are needed for ownership transfer?",
-        "answer": "You need the RC, insurance, Form 29, Form 30, and buyer's ID proof."
+        "question": "How do I claim warranty for my car?",
+        "answer": "To claim warranty, contact the company’s support team and provide details such as your car's registration number and the issue faced. You may be required to visit an authorized service center."
     },
     {
-        "question": "How do I check the status of my insurance transfer?",
-        "answer": "Log in to our portal and navigate to the 'Insurance' section to track the status."
+        "question": "What is not covered under the company's warranty?",
+        "answer": "The warranty does not cover regular wear and tear, accidental damage, modifications, or issues arising due to improper usage."
+    },
+    {
+        "question": "How long does the RC transfer take?",
+        "answer": "The RC transfer typically takes between 30 to 90 days, depending on the RTO's processing speed. You can track the status through the company's portal."
+    },
+    {
+        "question": "How can I check the status of my RC transfer?",
+        "answer": "You can check the status of your RC transfer by logging into your account on the company's website and navigating to the 'RC Transfer' section."
+    },
+    {
+        "question": "What documents are required for RC transfer?",
+        "answer": "You need the original Registration Certificate (RC), insurance documents, Form 29 & Form 30 signed by the seller, and the buyer's identity proof."
+    },
+    {
+        "question": "Who pays for the RC transfer?",
+        "answer": "The cost of the RC transfer is usually included in the service fees. However, any additional state-specific charges must be borne by the buyer."
+    },
+    {
+        "question": "How do I transfer my insurance to my name?",
+        "answer": "To transfer insurance, the buyer must contact the insurance provider with the updated RC, ID proof, and relevant forms. The process typically takes 7-15 days."
+    },
+    {
+        "question": "What happens if my insurance transfer is delayed?",
+        "answer": "If the insurance transfer is delayed beyond the expected time, please contact the insurance provider or the company’s support team for further assistance."
+    },
+    {
+        "question": "How do I raise an insurance claim?",
+        "answer": "In case of an accident or damage, call your insurance provider’s helpline, submit the required documents, and follow their claim approval process."
+    },
+    {
+        "question": "What is covered under my insurance policy?",
+        "answer": "Your insurance policy typically covers accidental damage, third-party liability, theft, and natural calamities. Refer to your policy document for exact details."
+    },
+    {
+        "question": "How can I avail roadside assistance?",
+        "answer": "You can avail roadside assistance by calling the company’s helpline. This service is available for customers whose vehicles are covered under the program."
+    },
+    {
+        "question": "What should I do if my car breaks down?",
+        "answer": "If your car breaks down, call the company’s roadside assistance helpline to get immediate help. Towing services may also be available if required."
+    },
+    {
+        "question": "How long does it take to activate roadside assistance?",
+        "answer": "Roadside assistance is activated within 24 hours after purchase. You will receive a confirmation message once it is active."
+    },
+    {
+        "question": "How do I contact customer support?",
+        "answer": "You can contact the company’s customer support via phone, email, or chat on the company’s website."
+    },
+    {
+        "question": "How do I request a refund?",
+        "answer": "Refunds can be requested through the company’s website by navigating to the ‘My Orders’ section and selecting the refund request option."
+    },
+    {
+        "question": "How do I activate my FASTag?",
+        "answer": "You can activate your FASTag through the company’s portal or by visiting the nearest issuing bank."
+    },
+    {
+        "question": "What if my FASTag is not working?",
+        "answer": "If your FASTag is not working, ensure that it has sufficient balance. If the issue persists, contact the company’s support team."
     },
     {
         "question": "What happens if my ownership transfer is delayed?",
-        "answer": "You can contact the RTO where the transfer is being processed or reach out to our support team."
+        "answer": "If the transfer is delayed, you can reach out to the RTO where the transfer is being processed or contact the company’s support team."
     },
     {
-        "question": "How much does car ownership transfer cost?",
-        "answer": "The cost varies based on the RTO but typically ranges from ₹300 to ₹5,000."
-    },
-    {
-        "question": "Can I sell my car without transferring ownership?",
-        "answer": "No, ownership transfer is legally required for the new owner to use the vehicle."
-    },
-    {
-        "question": "How do I get a duplicate RC for my car?",
-        "answer": "You need to file a request with your local RTO and provide an FIR, Form 26, and valid insurance."
-    },
-    {
-        "question": "Can I transfer ownership if my car loan is not paid off?",
-        "answer": "No, you need to obtain an NOC from the bank before initiating the transfer process."
-    },
-    {
-        "question": "How do I verify a used car's history?",
-        "answer": "Use our vehicle history service to check accident records, previous owners, and service history."
-    },
-    {
-        "question": "What is the process for transferring insurance to a new owner?",
-        "answer": "The new owner must submit a transfer request along with RC, Form 29, Form 30, and ID proof to the insurance provider."
-    },
-    {
-        "question": "What if the previous owner has pending challans?",
-        "answer": "The previous owner must clear all challans before the ownership transfer can be completed."
-    },
-    {
-        "question": "How can I track my car's servicing history?",
-        "answer": "You can log into your account on our website and check the 'Service History' section."
-    },
-    {
-        "question": "What happens if I don't transfer ownership after buying a used car?",
-        "answer": "You might face legal issues and be held responsible for any violations or accidents involving the vehicle."
-    },
-    {
-        "question": "How do I register a new vehicle in my name?",
-        "answer": "Submit Form 20, Form 21, insurance, road tax receipt, and proof of identity at the local RTO."
-    },
-    {
-        "question": "Can I transfer my car's ownership online?",
-        "answer": "Yes, some states allow online ownership transfer through the Vahan portal."
-    },
-    {
-        "question": "What should I do if my insurance provider denies a transfer?",
-        "answer": "You can appeal the decision by submitting additional documents or applying for a new policy."
-    },
-    {
-        "question": "How do I change my car's registration address?",
-        "answer": "Submit Form 33 along with proof of new address to the RTO."
-    },
-    {
-        "question": "What if my RC details are incorrect?",
-        "answer": "You can request a correction by submitting an application to the RTO along with supporting documents."
-    },
-    {
-        "question": "Can I transfer ownership of a commercial vehicle?",
-        "answer": "Yes, but you also need to submit a fitness certificate and clearance from the transport authority."
+        "question": "Can I track my service request online?",
+        "answer": "Yes, you can track the status of your service request through your account on the company's website."
     }
 ]
+
+    
